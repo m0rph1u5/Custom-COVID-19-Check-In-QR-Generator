@@ -2,6 +2,8 @@
 Personalised COVID-19 Check-In QR Codes
 
 This is a Proof of Concept Custom QR Code Generator for COVID-19 Check-in for South Australia
+
+
 **I TAKE NO RESPONSIBILITY FOR HOW YOU USE THIS APPLICATION**
 
 
